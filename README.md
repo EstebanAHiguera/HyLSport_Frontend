@@ -20,15 +20,25 @@ Este es el frontend del proyecto **HyLSport**, una tienda deportiva en línea de
 ## 📁 Estructura del proyecto
 
 HyLSport_Frontend/
+
 ├── public/
+
 ├── src/
+
 │ ├── components/ # Header, Footer, CardProduct, etc.
+
 │ ├── pages/ # Adidas.jsx, Nike.jsx, Reebok.jsx, Puma.jsx, Dashboard.jsx
+
 │ ├── context/ # CarritoContext.jsx
+
 │ └── App.jsx
+
 ├── .env
+
 ├── .gitignore
+
 ├── package.json
+
 └── vite.config.js
 
 ---
